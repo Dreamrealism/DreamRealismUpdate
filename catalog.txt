@@ -1,4 +1,3 @@
 # Dream Realism Content Library
-# Format for small files:  Name|Category|FilePath|SizeKB|Description
-# Format for big files:    Name|Category|https://github.com/.../releases/download/TAG/file.kn5|SizeMB|Description|models/local_name.kn5
-Miami Palm Pack|Trees|trees/miami_palms.bin|2400|Custom miami style palm trees
+# Name|Category|Path|SizeKB|Description
+Test FIle|Trees|trees/miami_palms.bin|1|Test FIle
