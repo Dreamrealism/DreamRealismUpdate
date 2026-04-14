@@ -153,3 +153,4 @@ tree: Washingtonia robusta HD V2_Standard mat 50_LOD2.bin; pos=5397.520, 4.010, 
 tree: Washingtonia robusta HD V2_Standard mat 50_LOD2.bin; pos=5343.070, 3.800, -4414.150; angle = 186; size = 1.790
 tree: Roystonea regia HD_Urban mat 100_LOD2.bin; pos=5956.030, 25.200, -4664.820; angle = 186; size = 1.790
 tree: Palm_2.bin; 5480.85, 12.62, -4500.71; pos=5480.85, 12.62, -4500.71; angle = 0; size = 1.000
+tree: Palm_1.bin; pos=5893.33, 23.83, -4645.44; angle = 0; size = 0.800
