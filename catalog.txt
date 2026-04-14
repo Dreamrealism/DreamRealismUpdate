@@ -1,2 +1,4 @@
 # Dream Realism Content Library
 # Name|Category|Path|SizeKB|Description
+DreamPalm1|Trees|https://github.com/Dreamrealism/DreamRealismUpdate/releases/download/content-v1/DreamPalm1.bin|2797||trees/DreamPalm1.bin
+Dream Palm|Trees|https://github.com/Dreamrealism/DreamRealismUpdate/releases/download/content-v1/DreamPalm1.bin|1|Test
