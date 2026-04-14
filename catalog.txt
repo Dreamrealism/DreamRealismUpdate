@@ -1,0 +1,4 @@
+# Content catalog - users can browse and install these individually
+# Format: Name|Category|FilePath|SizeKB|Description
+# Lines starting with # are ignored
+Miami Palm Pack|Trees|trees/miami_palms.bin|2400|Custom miami style palm trees

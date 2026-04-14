@@ -1,0 +1,4 @@
+# Files to update automatically when user clicks "Update Now"
+# One file path per line (relative to skin folder)
+# Lines starting with # are ignored
+trees/all_trees.txt
