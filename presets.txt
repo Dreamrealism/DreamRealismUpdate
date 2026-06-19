@@ -1,3 +1,2 @@
-gut | gut.ini
 V7.3 | V7.3.ini | test
 V7.3 .2 | V7.3 .2.ini | cgwaqe
