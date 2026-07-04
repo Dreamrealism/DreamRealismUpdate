@@ -1,2 +1,3 @@
 New Dream Config 1 | New Dream Config 1.ini | New Dream Config 1
 New Dream Config 2 | New Dream Config 2.ini | New Dream Config 2
+New Dream Config 3 | New Dream Config 3.ini | New Dream Config 3
